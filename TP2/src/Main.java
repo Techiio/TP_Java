@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+import java.util.*;
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
@@ -15,7 +15,8 @@ public class Main {
                 "9. Division d’entiers\n" +
                 "10. Règle graduée\n" +
                 "11. Nombres premiers\n" +
-                "12. Manipulations sur un tableau");
+                "12. Manipulations sur un tableau\n" +
+                "13. Exam TP noté 1");
         int choix = scanner.nextInt();
         System.out.println("\n");
         switch(choix){
@@ -66,8 +67,79 @@ public class Main {
             case 12:
                 initialisationTableau();
                 break;
+
+            case 13:
+                Book();
         }
     }
+
+    //EXAM
+    public static void triangle(int n) {
+        for(int i=n-1;i>=0;i--){
+            for(int j=0;j<=i;j++){
+                System.out.print("*");
+            }
+            System.out.println("");
+        }
+    }
+    public static void function1(String message) {
+
+        // Creating array of string length
+        char[] ch = new char[message.length()];
+
+        // Copy character by character into array
+        for (int i = 0; i < message.length(); i++) {
+            ch[i] = message.charAt(i);
+        }
+
+        // Printing content of array
+        for (char c : ch) {
+            if(c == 'a'){
+                System.out.print("a ");
+            }else if(c == 'e'){
+                System.out.print("e ");
+            }else if(c == 'i'){
+                System.out.print("i ");
+            }else if(c == 'o'){
+                System.out.print("o ");
+            }else if(c == 'u'){
+                System.out.print("u ");
+            }else if(c == 'y'){
+                System.out.print("y ");
+            }else if(c == 'A'){
+                System.out.print("a ");
+            }else if(c == 'E'){
+                System.out.print("e ");
+            }else if(c == 'I'){
+                System.out.print("i ");
+            }else if(c == 'O'){
+                System.out.print("o ");
+            }else if(c == 'U'){
+                System.out.print("u ");
+            }else if(c == 'Y'){
+                System.out.print("y ");
+            }
+        }
+    }
+    public void Book(){
+        Book daVinciCode = new Book("Da Vinci Code", "Dan Brown", 2003);
+        String description = daVinciCode.getDescription();
+        System.out.println(description);
+    }
+    class Book {
+        private String bookName, author, description;
+        private int releaseYear;
+        public Book(String bookName, String author, int releaseYear) {
+            this.bookName = bookName;
+            this.author = author;
+            this.releaseYear = releaseYear;
+            this.description = bookName + " écrit par " + author + " est sorti en " + releaseYear + ".";
+        }
+        public String getDescription() {
+            return this.description;
+        }
+    }
+
 
     //Question 3.1.1
     public static void discriminant() {
