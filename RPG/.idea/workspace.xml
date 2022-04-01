@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf47741c-40a9-4e38-b0ae-667f62d08c26" name="Changes" comment="RPG fonctionne enfin (v1)">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/rpg/Enemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/rpg/Enemy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/rpg/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/rpg/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/rpg/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/rpg/Hero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/rpg/JavaFX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/rpg/JavaFX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/rpg/BasicEnemy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/rpg/BasicEnemy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/rpg/Boss.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/rpg/Boss.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/rpg/Enemy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/rpg/Enemy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/rpg/Healer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/rpg/Healer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/rpg/Hero.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/rpg/Hero.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/rpg/Hunter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/rpg/Hunter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/rpg/JavaFX.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/rpg/JavaFX.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/rpg/Mage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/rpg/Mage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/rpg/SpellCaster.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/rpg/SpellCaster.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/example/rpg/Warrior.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/rpg/Warrior.class" afterDir="false" />
-    </list>
+    <list default="true" id="cf47741c-40a9-4e38-b0ae-667f62d08c26" name="Changes" comment="RPG: ajout heros et ennemis" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +113,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648814733328</updated>
-      <workItem from="1648814734888" duration="7298000" />
+      <workItem from="1648814734888" duration="7647000" />
     </task>
     <task id="LOCAL-00001" summary="RPG fonctionne enfin (v1)">
       <created>1648817209561</created>
@@ -145,7 +129,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648817223990</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="RPG: ajout heros et ennemis">
+      <created>1648822549928</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1648822549928</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,6 +155,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="RPG fonctionne enfin (v1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="RPG fonctionne enfin (v1)" />
+    <MESSAGE value="RPG: ajout heros et ennemis" />
+    <option name="LAST_COMMIT_MESSAGE" value="RPG: ajout heros et ennemis" />
   </component>
 </project>
