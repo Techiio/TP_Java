@@ -5,6 +5,6 @@ public class TestGame {
     @Test
     public void testPlay(){
         Game game = new Game();
-        Assert.assertEquals(1, game.playGame());
+        Assert.assertEquals(1, Game.Game());
     }
 }
