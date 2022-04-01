@@ -20,7 +20,6 @@ public class JavaFX {
         int enemyAleatoire = 0 + (int)(Math.random() * ((2 - 0) + 1));
 
         GridPane gridPane = new GridPane();
-        Text
         Button btn = CustomButtonFactory.createButton("Pick random hero", game.getHeroes()[heroAleatoire].toString());
         Button btn2 = CustomButtonFactory.createButton("Pick random enemy", game.getEnemies()[enemyAleatoire].toString());
         gridPane.add(btn, 10, 10);
