@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf47741c-40a9-4e38-b0ae-667f62d08c26" name="Changes" comment="RPG: ajout heros et ennemis" />
+    <list default="true" id="cf47741c-40a9-4e38-b0ae-667f62d08c26" name="Changes" comment="RPG: modif javafx">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/rpg/JavaFX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/rpg/JavaFX.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,7 +115,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648814733328</updated>
-      <workItem from="1648814734888" duration="7647000" />
+      <workItem from="1648814734888" duration="8145000" />
     </task>
     <task id="LOCAL-00001" summary="RPG fonctionne enfin (v1)">
       <created>1648817209561</created>
@@ -136,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648822549928</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="RPG: modif javafx">
+      <created>1648823074758</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1648823074758</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +165,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="RPG fonctionne enfin (v1)" />
     <MESSAGE value="RPG: ajout heros et ennemis" />
-    <option name="LAST_COMMIT_MESSAGE" value="RPG: ajout heros et ennemis" />
+    <MESSAGE value="RPG: modif javafx" />
+    <option name="LAST_COMMIT_MESSAGE" value="RPG: modif javafx" />
   </component>
 </project>
