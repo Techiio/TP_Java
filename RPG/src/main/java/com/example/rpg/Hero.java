@@ -6,6 +6,7 @@ public abstract class Hero {
     private int lifePoints;
     private int armor;
     private int weaponDamage;
+    private int moulaga;
     private Potion[] potions;
     private Food[] lembas;
 
@@ -21,6 +22,7 @@ public abstract class Hero {
                 ", weaponDamage=" + weaponDamage +
                 ", potions=" + Arrays.toString(potions) +
                 ", lembas=" + Arrays.toString(lembas) +
+                ", moulaga=" + moulaga +
                 '}';
     }
 
@@ -63,24 +65,50 @@ public abstract class Hero {
     public void setLembas(Food[] lembas) {
         this.lembas = lembas;
     }
+
+    public int getMoulaga(){ return moulaga;}
+
+    public void setMoulaga(int moulaga){ this.moulaga = moulaga;}
 }
 
 class Hunter extends Hero {
     int arrows;
+
+    public Hunter(){
+        setLifePoints(100);
+        setArmor(100);
+        setWeaponDamage(20);
+        setMoulaga(10);
+    }
 }
 
 class Warrior extends Hero {
+    public Warrior(){
+        setLifePoints(100);
+        setArmor(200);
+        setWeaponDamage(10);
+        setMoulaga(5);
+    }
 
 }
 
 abstract class SpellCaster extends Hero {
-
 }
 
 class Healer extends SpellCaster {
-
+    public Healer(){
+        setLifePoints(200);
+        setArmor(50);
+        setWeaponDamage(10);
+        setMoulaga(10);
+    }
 }
 
 class Mage extends SpellCaster {
-
+    public Mage(){
+        setLifePoints(75);
+        setArmor(50);
+        setWeaponDamage(30);
+        setMoulaga(20);
+    }
 }

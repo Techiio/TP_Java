@@ -4,100 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf47741c-40a9-4e38-b0ae-667f62d08c26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_17_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_win_17_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_17_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_win_17_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_17_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_17_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_17_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_17_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RPG.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/rpg/HelloApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/rpg/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/rpg/hello-view.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/com/example/rpg/HelloApplicationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP4_2022/out/production/TP4_2022/Game.class" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_2022/out/production/TP4_2022/Game.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP4_2022/src/Mage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_2022/src/Mage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP4_2022/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_2022/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP4_2022/src/TestGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TP4_2022/src/TestGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/.idea/libraries/Maven__com_dlsc_formsfx_formsfx_core_11_3_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/.idea/libraries/Maven__eu_hansolo_tilesfx_11_48.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/.idea/libraries/Maven__net_synedra_validatorfx_0_1_13.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/.idea/libraries/Maven__org_controlsfx_controlsfx_11_1_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/.idea/libraries/Maven__org_kordamp_bootstrapfx_bootstrapfx_core_0_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/.idea/libraries/Maven__org_kordamp_ikonli_ikonli_core_12_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/.idea/libraries/Maven__org_kordamp_ikonli_ikonli_javafx_12_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/.idea/libraries/Maven__org_openjfx_javafx_base_17_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/.idea/libraries/Maven__org_openjfx_javafx_base_win_17_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/.idea/libraries/Maven__org_openjfx_javafx_controls_17_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/.idea/libraries/Maven__org_openjfx_javafx_controls_win_17_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/.idea/libraries/Maven__org_openjfx_javafx_fxml_17_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_17_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/.idea/libraries/Maven__org_openjfx_javafx_graphics_17_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_17_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/.idea/libraries/Maven__org_openjfx_javafx_media_17_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/.idea/libraries/Maven__org_openjfx_javafx_media_win_17_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/.idea/libraries/Maven__org_openjfx_javafx_web_17_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/.idea/libraries/Maven__org_openjfx_javafx_web_win_17_0_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/TP6_Interface-graphique.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/src/main/java/com/example/RPG/Consumable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/src/main/java/com/example/RPG/CustomButtonFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/src/main/java/com/example/RPG/Enemy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/src/main/java/com/example/RPG/Food.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/src/main/java/com/example/RPG/Game.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/src/main/java/com/example/RPG/Hero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/src/main/java/com/example/RPG/InputParser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/src/main/java/com/example/RPG/JavaFX.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/src/main/java/com/example/RPG/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/src/main/java/com/example/RPG/Potion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/src/main/java/com/example/RPG/testGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/src/main/java/com/example/tp6_interfacegraphique/HelloApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/src/main/java/com/example/tp6_interfacegraphique/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/src/main/java/module-info.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/src/main/resources/com/example/tp6_interfacegraphique/hello-view.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_Interface-graphique/target/classes/com/example/tp6_interfacegraphique/hello-view.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_RPG-JavaFX/Test/testGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/example/rpg/testGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_RPG-JavaFX/src/Consumable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/rpg/Consumable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_RPG-JavaFX/src/CustomButtonFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/rpg/CustomButtonFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_RPG-JavaFX/src/Enemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/rpg/Enemy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_RPG-JavaFX/src/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/rpg/Food.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_RPG-JavaFX/src/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/rpg/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_RPG-JavaFX/src/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/rpg/Hero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_RPG-JavaFX/src/InputParser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/rpg/InputParser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_RPG-JavaFX/src/JavaFX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/rpg/JavaFX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_RPG-JavaFX/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/rpg/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TP6_RPG-JavaFX/src/Potion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/rpg/Potion.java" afterDir="false" />
+    <list default="true" id="cf47741c-40a9-4e38-b0ae-667f62d08c26" name="Changes" comment="RPG fonctionne enfin (v1)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/rpg/Enemy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/rpg/Enemy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/rpg/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/rpg/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/rpg/Hero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/rpg/Hero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/rpg/JavaFX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/rpg/JavaFX.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/rpg/BasicEnemy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/rpg/BasicEnemy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/rpg/Boss.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/rpg/Boss.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/rpg/Enemy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/rpg/Enemy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/rpg/Healer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/rpg/Healer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/rpg/Hero.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/rpg/Hero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/rpg/Hunter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/rpg/Hunter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/rpg/JavaFX.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/rpg/JavaFX.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/rpg/Mage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/rpg/Mage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/rpg/SpellCaster.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/rpg/SpellCaster.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/rpg/Warrior.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/rpg/Warrior.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -207,8 +129,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648814733328</updated>
-      <workItem from="1648814734888" duration="2243000" />
+      <workItem from="1648814734888" duration="7298000" />
     </task>
+    <task id="LOCAL-00001" summary="RPG fonctionne enfin (v1)">
+      <created>1648817209561</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648817209562</updated>
+    </task>
+    <task id="LOCAL-00002" summary="RPG fonctionne enfin (v1)">
+      <created>1648817223990</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1648817223990</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,5 +161,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="RPG fonctionne enfin (v1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="RPG fonctionne enfin (v1)" />
   </component>
 </project>

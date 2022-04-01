@@ -16,10 +16,12 @@ public class JavaFX {
 
     public void start(Stage stage) throws IOException {
         GridPane gridPane = new GridPane();
-        Button btn = CustomButtonFactory.createButton("Pick me", game.getHeroes()[0].toString());
+        Button btn = CustomButtonFactory.createButton("Pick hero 1", game.getHeroes()[0].toString());
+        Button btn2 = CustomButtonFactory.createButton("Pick enemy 1", game.getEnemies()[0].toString());
         gridPane.add(btn, 10, 10);
+        gridPane.add(btn2, 10, 20);
         Scene scene = new Scene(gridPane, 600, 400);
-        stage.setTitle("RPG_Lite_3000");
+        stage.setTitle("RPG");
         stage.setScene(scene);
         stage.show();
     }
